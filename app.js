@@ -155,3 +155,17 @@
 // }
 
 // document.write(`Text: ${sentence} </br> There are ${count} occurrence(s) of word '${wordToFind}'`);
+
+
+//Chapter 21 (Changing Case)
+
+//Q1
+// var userInput = prompt("Enter Your Value");
+// var allLower = userInput.toLowerCase();
+// console.log(allLower);
+
+//Q2
+// var x = "HAMMAD";
+// console.log(x);
+// x = x.toLowerCase();
+// console.log(x);
