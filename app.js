@@ -169,3 +169,101 @@
 // console.log(x);
 // x = x.toLowerCase();
 // console.log(x);
+
+//Q3
+// var y = "hammad";
+// console.log(y);
+// y = y.toUpperCase();
+// console.log(y);
+
+//Q4
+// var a = "HAMMAD";
+// console.log(a);
+// var z = a.toLowerCase();
+// console.log(z);
+
+//Q5
+// var arr = ["HAMMAD","ALI","SALMAN","YASIN"];
+// var str = arr[0].toLowerCase();
+// console.log(str);
+
+//Q6
+// var strL = "hello world";
+// var strU = strL.toUpperCase();
+// alert(strU);
+
+//Q7
+// var cityName = "kaRacHi";
+// var firstCapital = cityName.charAt(0).toUpperCase() + cityName.slice(1).toLowerCase();
+// console.log(firstCapital);
+
+
+//Chapter 22 - 25 (Strings)
+
+//Q1
+// var sameWords = "captain";
+// var newWord = sameWords.slice(1, 3);
+// console.log(newWord);
+
+//Q2
+// var str = "hello world";
+// var str2 = str.slice(0,5);
+// console.log(str2);
+
+//Q3
+// var animal = "elephant";
+// var seg = animal.slice(2, 6);
+// console.log(seg);
+
+//Q4
+// var str = "hello world";
+// var str2 = str.slice(0);
+// console.log(str2);
+
+//Q5
+// var str = "jawan pakistan";
+// var lengh = str.length;
+// console.log(lengh);
+// var str2 = str.slice(0, 1) + str.slice(11, 14);
+// console.log(str2);
+
+//Q6
+// var text = "To be or not to be.";
+// var indx = text.indexOf("be");
+// console.log(indx);
+
+//Q7
+// var text = "To be or not to be.";
+// var indx = text.lastIndexOf("be");
+// console.log(indx);
+
+//Q8
+// var text = "go";
+// var indx = text.indexOf("o");
+// console.log(indx);
+
+//Q9
+// var str = "hammad";
+// var indexNum = 4;
+// if (str.charAt(indexNum) !== undefined) {
+//     console.log(true);
+// }
+
+//Q10
+// var str = "abcde";
+// console.log(str.charAt(2));
+
+//Q11
+// var name = "hammadbhatti";
+// var cha = name[10];
+// console.log(cha);
+
+//Q12
+// var str = "pakistan";
+// var x = str[7];
+// console.log(x);
+
+//Q13
+// var userInput = prompt("Enter String");
+// var cha = userInput[4];
+// console.log(cha);
